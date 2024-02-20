@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hello There 👋
+I'm Yair, and I like to build cool stuff.
 
+Some of the technologies and
+<img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/go.svg" width="50"/>
 <!--
 **YairLevi/YairLevi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
