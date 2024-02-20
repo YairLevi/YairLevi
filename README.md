@@ -18,20 +18,8 @@ Some of the technologies I use regularly:
 
 <br/>
 Just so you know who you're dealing with:
-
-<div style="display: flex; margin-bottom: -30px">
-<p style="width: 20px">💻</p>
-<p>Started learning to code since around the age of 15, using batch...</p>
-</div>
-<div style="display: flex; margin-bottom: -30px">
-<p style="width: 20px">💡</p>
-<p>Interestingly enough, I'm actually not an OOP hater. Though I enjoy my share of FP as well.</p>
-</div>
-<div style="display: flex; margin-bottom: -30px">
-<p style="width: 20px">💪</p>
-<p>Challenging code architecture problems are my bread and butter.</p>
-</div>
-<div style="display: flex; margin-bottom: -30px">
-<p style="width: 20px">🍔</p>
-<p>Nothing is quite like a good meal at 10PM.</p>
-</div>
+<br/>
+<div>💻 Started learning to code since around the age of 15, using batch...</div>
+<div>💡 Interestingly enough, I'm actually not an OOP hater. Though I enjoy my share of FP as well.</div>
+<div>💪 Challenging code architecture problems are my bread and butter.</div>
+<div>🍔 Nothing is quite like a good meal at 10PM.</div>
